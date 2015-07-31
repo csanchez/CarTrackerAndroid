@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tracker</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="activity_welcome">Welcome</string>
+    <string name="activity_system_requirements">Requirements</string>
+    <string name="activity_login">Login</string>
+    <string name="activity_tracker">Tracker</string>
+
+    <string name="app_title">Tracker</string>
+    <string name="app_subtitle">Device</string>
+
+    <string name="welcome_text">Tracker necesita ser configurado, Sigue los siguientes pasos.</string>
+    <string name="welcome_button">asdas</string>
+    <string name="welcome_sing_up1">¿Aún no tienes cuenta? Registrate!</string>
+    <string name="welcome_sing_up2">Registrate!</string>
+    <string name="welcome_terms_label2">Registrate!</string>
+
+    <string name="login_by_sign_in_text">Al ingresar a esta App, ten en cuenta que aceptas</string>
+    <string name="login_terms_and_conditions">los terminos y condiciones de Tracker</string>
+    <string name="login_forgot_password">Olvidaste tu contraseña?</string>
+    <string name="login_button">Ingresar</string>
+    <string name="login_label1">Código de Usuario</string>
+    <string name="login_label2">Clave de Usuario</string>
+
+
+    <!-- Generic error during log in -->
+    <string name="error_heading">The following error occurred while logging you in</string>
+    <string name="error_message">Mensaje de error</string>
+    <!-- Header when error occurs in login-->
+    <string name="login_error">Error de inicio de sesión</string>
+    <!-- Error shown during login when user attempts login without entering a username or e-mail -->
+    <string name="error_enter_user_code">Por favor introduce tu Código de Usuario</string>
+    <!-- Error shown during login when user attempts login without entering a password -->
+    <string name="error_enter_password">Por favor introduce tu Clave de Usuario</string>
+    <!-- Error during log in. -->
+    <string name="login_failed">Por favor asegurate que tu Código y Clave de Usuario son correctos e intentalo de nuevo</string>
+
+    <string name="login_error_no_network">No estás conectado a Internet</string>
+
+    <!-- Generic error during System requeriment-->
+    <string name="system_requirements_text1">Bienvenido:</string>
+    <string name="system_requirements_text2">Asegurate de contar con los siguientes servicios.</string>
+    <string name="system_requirements_button1">Verificar Servicios</string>
+    <string name="system_requirements_button2">Continuar</string>
+    <string name="system_requirements_no_gps_message">Tu GPS parece estar desactivado, deseas activarlo?</string>
+    <string name="system_requirements_gps_error">Tu GPS parece estar desactivado, deseas activarlo?</string>
+    <string name="system_requirements_gps_cancel_message">Para utilizar Tracker debes activar los servicios de GPS</string>
+
+    <string name="system_requirements_no_network_message">Este dispositivo no tiene acceso a la red de datos, deseas activarla?</string>
+    <string name="system_requirements_network_error">Tracker necesita de la red de datos móviles y no estás conectado a ella </string>
+    <string name="system_requirements_network_cancel_message">Para utilizar Tracker debes activar los servicios de Red</string>
+
+    <string name="system_requirements_google_play">El dispositivo centa con servicios de Google Play</string>
+    <string name="system_requirements_no_google_play">Los servicios de Google PLay tienen que ser instalados</string>
+    <string name="system_requirements_google_play_error">El dispositivo no soporta los servicios de Google Play</string>
+
+    <string name="system_requirements_missed">Es necesario que tengas activados los servicios requeridos por Tracker</string>
+
+
+    <string name="tracker_title">Tracker Device</string>
+    <string name="tracker_text">La aplicación se está configurando, esto puede tardar unos minutos.</string>
+    <string name="tracker_button">Conectar</string>
+
+
+    <string name="gcm_send_message">Token retrieved and sent to server! You can now use gcm sender to
+        send downstream messages to this app.</string>
+    <string name="registering_message">Generating InstanceID token...</string>
+    <string name="token_error_message">An error occurred while either fetching the InstanceID token,
+        sending the fetched token to the server or subscribing to the PubSub topic. Please try
+        running the sample again.</string>
+
+
+
+    <string name="title_activity_login_activity2">LoginActivity2</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

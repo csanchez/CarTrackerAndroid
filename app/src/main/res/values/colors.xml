@@ -1,0 +1,11 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="links_colors">#ff067ecc</color>
+    <color name="button_colors">#ffffffff</color>
+    <color name="grey_text_mycourse">#454951</color>
+    <color name="red_error_text">#F47676</color>
+
+
+</resources>
